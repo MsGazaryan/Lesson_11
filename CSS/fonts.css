@@ -1,0 +1,48 @@
+@font-face{
+    font-family: 'SeguiUI';
+    src: url('../fonts/SeguiUI.ttf')
+    format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+@font-face{
+    font-family: 'SegoeUIBold';
+    src: url('../fonts/SegoeUIBold.ttf')
+    format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+@font-face{
+    font-family: 'SegoeUIItalic';
+    src: url('../fonts/SegoeUIItalic.ttf')
+    format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+@font-face{
+    font-family: 'SegoeUILight';
+    src: url('../fonts/SegoeUILight.ttf')
+    format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+@font-face{
+    font-family: 'SegoeUIRegular';
+    src: url('../fonts/SegoeUIRegular.ttf')
+    format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+@font-face{
+    font-family: 'SegoeUISemiBold';
+    src: url('../fonts/SegoeUISemiBold.ttf')
+    format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
